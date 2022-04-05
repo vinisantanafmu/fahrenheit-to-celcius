@@ -14,4 +14,6 @@ int main() {
     
     printf("------------------------------------------------------\n\n");
     printf("    %.1f°F para celcius é %.1f°C", fahrenheit, celcius);
+    
+    return 0;
 }
